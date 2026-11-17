@@ -1,0 +1,72 @@
+SyntaxError -> Occurs when Python code violates its syntax rules.
+
+IndentationError -> Occurs when code has incorrect indentation.
+
+NameError -> Occurs when a variable or name is not defined.
+
+TypeError -> Occurs when an operation is performed on an inappropriate data type.
+
+ValueError -> Occurs when a function receives the correct data type but an invalid value.
+
+AttributeError -> Occurs when an object does not have the requested attribute or method.
+
+IndexError -> Occurs when accessing an index outside a sequence's valid range.
+
+KeyError -> Occurs when a dictionary key does not exist.
+
+FileNotFoundError -> Occurs when the specified file or directory does not exist.
+
+FileExistsError -> Occurs when trying to create a file or directory that already exists.
+
+EOFError -> Occurs when input ends unexpectedly while reading data.
+
+ImportError -> Occurs when an imported module or object cannot be imported.
+
+ModuleNotFoundError -> Occurs when Python cannot find the requested module.
+
+RuntimeError -> Occurs when an error happens that does not fit into another specific exception category.
+
+RecursionError -> Occurs when the maximum recursion depth is exceeded.
+
+SystemError -> Occurs when the Python interpreter detects an internal error.
+
+MemoryError -> Occurs when Python runs out of memory to complete an operation.
+
+ReferenceError -> Occurs when accessing a weak reference whose object no longer exists.
+
+TimeoutError -> Occurs when a system operation exceeds its allowed time.
+
+KeyboardInterrupt -> Occurs when the user interrupts program execution, usually using Ctrl+C.
+
+ConnectionError -> Base class for connection-related errors.
+
+ZeroDivisionError -> Occurs when a number is divided or modulo-divided by zero.
+
+OverflowError -> Occurs when a numerical operation produces a result too large to represent.
+
+TabError -> Occurs when tabs and spaces are used inconsistently for indentation.
+
+FloatingPointError -> Occurs when a floating-point operation fails under enabled floating-point exception handling.
+
+IOError -> Historically used for input/output errors; an alias of OSError in modern Python.
+
+OSError -> Occurs when an operating-system-related operation fails.
+
+AssertionError -> Occurs when an assert statement evaluates to False.
+
+IsADirectoryError -> Occurs when a file operation is performed on a directory.
+
+NotADirectoryError -> Occurs when a directory operation is performed on something that is not a directory.
+
+NotImplementedError -> Occurs when a method is intentionally left unimplemented.
+
+SystemExit -> Raised when the program is asked to exit using sys.exit().
+
+
+
+
+
+
+
+
+
